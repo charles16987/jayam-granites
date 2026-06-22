@@ -160,7 +160,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: gallery11,
     type: 'slab',
-    image: '/src/assets/images/gallery_11.jpeg',
+    image: gallery11,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
