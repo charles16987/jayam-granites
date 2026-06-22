@@ -71,7 +71,7 @@ export default function Contact() {
                 <div>
                   <h4 className="text-sm font-semibold text-neutral-400 uppercase tracking-wider font-mono">Phone </h4>
                   <p className="text-amber-400 text-lg font-bold font-sans mt-2 tracking-wide">
-                    {BUSINESS_INFO.phone}
+                  <span>+91 9150016489</span> <span>, +91 9150016487</span> <span>, {BUSINESS_INFO.phone} </span> 
                   </p>
                   <p className="text-neutral-500 text-xs font-mono uppercase mt-1">Available for WhatsApp & Voice Call</p>
                 </div>
