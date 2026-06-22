@@ -1,4 +1,18 @@
 import { GalleryItem, NavItem, ServiceFeature } from './types';
+import gallery2 from './assets/images/gallery_2.jpeg';
+import gallery3 from './assets/images/gallery_3.jpeg';
+import gallery4 from './assets/images/gallery_4.jpeg';
+import gallery5 from './assets/images/gallery_5.jpeg';
+import gallery6 from './assets/images/gallery_6.jpeg';
+import gallery7 from './assets/images/gallery_7.jpeg';
+import gallery8 from './assets/images/gallery_8.jpeg';
+import gallery9 from './assets/images/gallery_9.jpeg';
+import gallery10 from './assets/images/gallery_10.jpeg';
+import gallery11 from './assets/images/gallery_11.jpeg';
+import gallery12 from './assets/images/gallery_12.jpeg';
+import gallery13 from './assets/images/gallery_13.jpeg';
+import gallery14 from './assets/images/gallery_14.jpeg';
+import gallery15 from './assets/images/gallery_15.jpeg';
 
 export const BUSINESS_INFO = {
   name: 'Jayam Granites',
@@ -56,7 +70,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_2.jpeg',
+    image: gallery2,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -66,7 +80,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_3.jpeg',
+    image: gallery3,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -76,7 +90,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_4.jpeg',
+    image: gallery4,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -86,7 +100,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_5.jpeg',
+    image: gallery5,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -96,7 +110,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_6.jpeg',
+    image: gallery6,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -106,7 +120,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_7.jpeg',
+    image: gallery7,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -116,7 +130,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_8.jpeg',
+    image: gallery8,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -126,7 +140,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_9.jpeg',
+    image: gallery9,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -136,7 +150,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_10.jpeg',
+    image: gallery10,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -144,7 +158,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'fish-gold',
-    title: 'Our Gallery',
+    title: gallery11,
     type: 'slab',
     image: '/src/assets/images/gallery_11.jpeg',
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
@@ -156,7 +170,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_12.jpeg',
+    image: gallery12,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -167,7 +181,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_13.jpeg',
+    image: gallery13,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -177,7 +191,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_14.jpeg',
+    image: gallery14,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
@@ -188,7 +202,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'fish-gold',
     title: 'Our Gallery',
     type: 'slab',
-    image: '/src/assets/images/gallery_15.jpeg',
+    image: gallery15,
     description: 'Stunning black granite adorned with dynamic amber, golden waves, and copper structures. Excellent for countertops, feature walls, and staircases.',
     thickness: '18mm - 20mm',
     finish: 'Mirror Polished',
